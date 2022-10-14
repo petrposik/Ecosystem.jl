@@ -3,5 +3,10 @@ uuid = "04a4f56a-5050-40a9-852f-b4fbecc56673"
 authors = ["Petr Pošík <petr.posik@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+TestItemRunner = "f8b46487-2199-4994-9208-9a1283c18c0a"
+TestItems = "1c621080-faea-4a02-84b6-bbd5e436b8fe"
+
 [compat]
 julia = "1.8"
