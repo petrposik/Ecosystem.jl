@@ -1,0 +1,7 @@
+name = "Ecosystem"
+uuid = "04a4f56a-5050-40a9-852f-b4fbecc56673"
+authors = ["Petr Pošík <petr.posik@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
